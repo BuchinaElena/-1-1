@@ -1,0 +1,7 @@
+﻿  task7_func.cpp
+C:\Users\User\source\repos\Лаба 1 часть 7\Лаба 1 часть 7\task7_func.cpp(9,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  task7_main.cpp
+  task8.cpp
+C:\Users\User\source\repos\Лаба1 часть8\Лаба1 часть8\task8.cpp(11,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Лаба1 часть8.vcxproj -> C:\Users\User\source\repos\Лаба1 часть8\x64\Debug\Лаба1 часть8.lib
